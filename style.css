@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right,#FDFC47,#24FE41);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.rand-head{
+    text-align: center;
+    background: linear-gradient(to right,#fc4a1a,#f7b733);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+form{
+    text-align: center;
+    height: 200px;
+    margin:0 auto;
+}
+
+
+.input{
+    width: 50%;
+    text-align: center;
+    color:  red;
+    font-size: 25px;
+}
+
+
+.button-gen{
+    margin-top: 20px;
+}
+
+.button-gen:hover{
+    background-color: pink;
+}
+
+strong{
+    margin-top: 20px;
+}
+
+.length{
+    margin-top: 20px;
+    text-align: center;
+}
